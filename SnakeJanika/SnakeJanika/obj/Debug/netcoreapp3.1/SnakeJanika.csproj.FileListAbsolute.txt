@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.exe
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.dll.config
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.deps.json
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.dll
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\bin\Debug\netcoreapp3.1\SnakeJanika.pdb
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.dll
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.pdb
+C:\Users\Lenovo\source\repos\Janika2201\snakeValjataga\SnakeJanika\SnakeJanika\obj\Debug\netcoreapp3.1\SnakeJanika.genruntimeconfig.cache
